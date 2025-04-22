@@ -161,3 +161,21 @@ p {
     height: auto;
     width: 20%;
 }
+
+
+/* MODAL CADENA */
+.exito {
+    width: 100%;
+    
+}
+.cuponeras {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.cuponeras img {
+    width: 500px;
+}
+.cuponer {
+    max-height: 10px;
+}
